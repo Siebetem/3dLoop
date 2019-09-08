@@ -14,11 +14,16 @@ The printer uses a conveyor belt as print bed, whereas a normal printer uses a f
 
 ## Configuration 1 (Infinite printing)
 ![](Renders/FinalRender_Assembly2.png)
-
+In this configuration, It's possible to make objects with one infinite dimention.
+The X,Y-assembly is oriented under an 45 degree angle towards the bed assembly.
+This is especially usefull for extrusions, but it makes it also possible to print objects without support wereas normal printers would need support.
 
 ## Configuration 2 (Normal 3D printer with automated object rejection)
-![](Renders/NormalSetup_Final.png)
+![](Renders/NormalSetup_Final.PNG)
+This configuration give you all the advantages of the standard XYZ setup with the addition of automaticly rejection of the print. It makes it possible to print many objects, without the need of human interaction between diffrent objects.
 
+
+##
 This printer is fully custom made, every part is carefully designed to make sure the machine will work as good as possible.
 
 On this Github page, you can find all the details about this printer. I share all the designfiles as well as software, firmware and used parts.
