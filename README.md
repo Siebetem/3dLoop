@@ -38,6 +38,20 @@ By the use of two side pannels, the XY-as can be easely swichted between the two
 ![](Renders/FinalRender_Montageplaat2.png)
 
 
+## Electronic Box
+The mainbord and powersupply are mounted inside a seperate unit, the electronic box.
+The printer uses a MKS GEN 1.4 board, to run the Marlin firmware.
+In the electronic box, there was special attention needed to the airflow, to prevent the closed box form overheating.
+On the top of this box, there is a spoolholder.
+![](Renders/Electronics_Box_Heat.svg)
+![](Renders/FinalRender_Elec_Box2.png)
+On the back of the box, there are all the connectors for the differtent components. The use of connectors makes transportation of the printer easier.
+![](Renders/FinalRender_Elec_Box3.png)
+
+
+
+
+
 
 
 ##
