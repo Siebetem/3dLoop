@@ -61,3 +61,8 @@ On this Github page, you can find all the details about this printer. I share al
 
 Don't hesitate to contact me or post a comment if you have any questions!
 
+![](Renders/FinalRender_XY_Belt_Hub.png)
+![](Renders/FinalRender_XY2.png)
+![](Renders/FinalRender_XY_Hoek.png)
+
+
