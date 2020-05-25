@@ -21,7 +21,7 @@ In this configuration, It's possible to make objects with one infinite dimention
 The X,Y-assembly is oriented under an 45 degree angle towards the bed assembly.
 This is especially usefull for extrusions, but it makes it also possible to print objects without support wereas normal printers would need support. For every layer, the bed system rols a bit further. In that way, objects can be bigger than the length of the belt.
 
-## Configuration 2 (Normal 3D printer with automated object rejection)
+## Configuration 2 (Normal 3D printer with automated object ejection)
 ![](Renders/NormalSetup_Final.PNG)
 This configuration give you all the advantages of the standard XYZ setup with the addition of automaticly rejection of the print. It makes it possible to print many objects, without the need of human interaction between diffrent objects. This is especially handy when you want to make a printfarm, or want to print many parts when you're away or sleeping.
 
